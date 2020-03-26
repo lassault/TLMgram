@@ -2,7 +2,9 @@ TLMgram
 ===
 Proyecto final de la asignatura **Desarrollo de Servicios de Comunicación en Red**
 
-_Fermin Lassa ([@lassa97](https://github.com/lassa97)) y María Ovejero_
+![coded](imgs/coded.svg) ![gluten](imgs/gluten.svg)
+
+**Fermin Lassa** ([@lassa97](https://github.com/lassa97)) y **María Ovejero** ([@mariaove](https://github.com/mariaove))
 
 Login
 ===
