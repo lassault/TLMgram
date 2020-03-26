@@ -1,5 +1,6 @@
+<h1 align="center">
  TLMgram
- ===
+</h1>
 <p align="center">
   <img src="imgs/TLMgram_rounded.png">
   <br>
