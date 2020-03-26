@@ -1,5 +1,7 @@
 TLMgram
 ===
+![logo](imgs/TLMgram_rounded.png)
+
 Proyecto final de la asignatura **Desarrollo de Servicios de Comunicación en Red**
 
 ![coded](imgs/coded.svg) ![gluten](imgs/gluten.svg)
