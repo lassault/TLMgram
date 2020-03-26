@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">TLMgram</string>
+    <string name="welcomeMsg">¡Welcome!</string>
+    <string name="enterMsg">Log in</string>
+    <string name="registerMsg">Register</string>
+    <string name="emailHint">E-mail</string>
+    <string name="passwordHint">Password</string>
+    <string name="createMsg">Create account</string>
+    <string name="exit">LOG OUT</string>
+    <string name="emailError">Enter an E-mail</string>
+    <string name="passwordError">Enter your password</string>
+    <string name="helloMsg">Hello %1$s</string>
+    <string name="dateHint">Date</string>
+    <string name="validHint">Valid</string>
+    <string name="accessHintEmail">Email</string>
+    <string name="accessHintPass">Password</string>
+    <string name="nameHint">Name</string>
+    <string name="title_activity_chats">ChatsActivity</string>
+    <string name="newChat">New chat</string>
+    <string name="createNewChat">Create new chat</string>
+    <string name="myprofile">My profile</string>
+
+    <string name="chatID">ChatID: %1$d</string>
+    <string name="participants">Users: %1$d</string>
+    <string name="chatOwner">Owner: %1$s</string>
+    <string name="chatUser">User: %1$s</string>
+
+    <string name="escribirmensaje">Type a message...</string>
+    <string name="enviarmensaje"> Send</string>
+    <string name="deletechat"> Exit from this chat</string>
+    <string name="cambiarpass"> Change password</string>
+    <string name="cambiarname"> Change name</string>
+
+    <string name="eliminarcuenta">DELETE ACCOUNT</string>
+    <string name="nuevonombre">Type your new name:</string>
+    <string name="cambiar">OK </string>
+    <string name="nuevapass">Type your new pass:</string>
+    <string name="estasseguro">Are you sure?</string>
+    <string name="borrarcuenta">DELETE</string>
+    <string name="back">BACK</string>
+    <string name="verperfiluser">PROFILE</string>
+    <string name="chat_info">Chat Info</string>
+
+    <string name="created_at">Created: %1$s</string>
+    <string name="search_chat_hint">Search a user</string>
+    <string name="search_message_hint">Search a message</string>
+
+</resources>

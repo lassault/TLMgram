@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    tools:context=".Activities.ChatsListActivity">
+
+    <item
+        android:title="Delete my profile"
+        android:id="@+id/my_profile_delete"
+        android:icon="@drawable/ic_delete_black"
+        app:showAsAction="always" />
+
+</menu>
