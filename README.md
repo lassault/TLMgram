@@ -1,10 +1,15 @@
-TLMgram
-===
-Proyecto final de la asignatura **Desarrollo de Servicios de Comunicación en Red**
-
-![coded](imgs/coded.svg) ![gluten](imgs/gluten.svg)
-
-**Fermin Lassa** ([@lassa97](https://github.com/lassa97)) y **María Ovejero** ([@mariaove](https://github.com/mariaove))
+<h1 align="center">
+ TLMgram
+</h1>
+<p align="center">
+  <img src="imgs/TLMgram_rounded.png">
+  <br>
+Proyecto final de la asignatura <b>Desarrollo de Servicios de Comunicación en Red</b>
+<br>
+<span><img src="imgs/coded.svg" alt="coded">  <img src="imgs/gluten.svg" alt="gluten"></span> 
+<br>
+<a href="https://github.com/lassa97"><b>Fermin Lassa</b></a> y <a href="https://github.com/mariaove"><b>Maria Ovejero</b></a>
+</p>
 
 Login
 ===
@@ -30,6 +35,7 @@ Muestra nuestro perfil. Además, nos permite cambiar nuestro nombre, contraseña
 ![Delete account](imgs/Eliminar cuenta.png)
 
 User profile
+
 ===
 ![UserProfile Activity](imgs/User%20profile.png)
 Muestra el perfil de un usuario.
