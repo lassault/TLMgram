@@ -32,10 +32,9 @@ Mi perfil
 ===
 ![MyProfile Activity](imgs/Mi%20perfil.png)
 Muestra nuestro perfil. Además, nos permite cambiar nuestro nombre, contraseña, cerrar sesión o eliminar nuestra cuenta. Manteniendo pulsado cada botón, obtenemos información sobre la acción a realizar.
-![Delete account](imgs/Eliminar cuenta.png)
+![Delete account](imgs/Eliminar%20cuenta.png)
 
 User profile
-
 ===
 ![UserProfile Activity](imgs/User%20profile.png)
 Muestra el perfil de un usuario.
